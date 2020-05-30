@@ -16,7 +16,6 @@ outfile.write('\n')
 # output each of the rows:
 for book in cs_books:
     row_string = '{},{},{}'.format(cs_books[0], cs_books[1], cs_books[2])
-    outfile.write('\n')
     outfile.write(row_string)
     outfile.write('\n')
 print("File Creation Completed")
