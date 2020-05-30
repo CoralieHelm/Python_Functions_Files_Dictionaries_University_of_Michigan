@@ -1,0 +1,3 @@
+Today is saturday May 30th 2020. This file is intended to be used as a practice to write content to a file via python.
+This was a popular exercise
+...and still is.
