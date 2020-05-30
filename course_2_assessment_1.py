@@ -41,10 +41,10 @@ with open ("school_prompt.txt", "r") as sp_file:
     beginning_chars = ''
     for character in sp_file.read()[:30]:
         beginning_chars += character
-print(beginning_chars)       
+print(beginning_chars)
 #You passed: 100.0% of the tests
 
-print("************")       
+print("************")
 #Task 5. Challenge: Using the file school_prompt.txt, assign the third word of every line to a list called three.
 with open("school_prompt.txt", "r") as sp_file:
     three = []
@@ -83,3 +83,4 @@ with open("school_prompt.txt", "r") as school_file:
             p_words.append(word)
 print(p_words)
 #You passed: 100.0% of the tests
+#Adding comment via Git CMD
