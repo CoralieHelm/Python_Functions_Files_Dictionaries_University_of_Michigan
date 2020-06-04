@@ -9,7 +9,7 @@ def total(list_int):
         add = add + int
     return add
 
-#2. 2. Write a function called count that takes a list of numbers as input and returns a count of the number of elements in the list.
+#2. Write a function called count that takes a list of numbers as input and returns a count of the number of elements in the list.
 def count(list_numbers):
     count = 0
     for number in list_numbers:
